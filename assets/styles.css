@@ -1,0 +1,32 @@
+/* Fuentes */
+@import url("https://fonts.googleapis.com/css?family=Work+Sans:400,500,600,700&subset=latin-ext");
+
+/* Tags CSS */
+html {
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    /* background: linear-gradient(84deg, #2196f3 15%, #E91E63 90%) */
+}
+
+.float-right {
+    margin-left: auto;
+
+}
+.float-right a {
+    text-decoration: none;
+}
+.links{
+    font-family: 'Work Sans', sans-serif;
+    font-size: large;
+    color: white;
+    font-synthesis: style;
+}
